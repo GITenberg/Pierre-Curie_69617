@@ -1,0 +1,57 @@
+_repo: Pierre-Curie_69617
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Meloney, William Brown
+    birthdate: 1877
+    deathdate: 1925
+    gutenberg_agent_id: '50800'
+    url: http://www.gutenberg.org/2009/agents/50800
+    wikipedia: https://en.wikipedia.org/wiki/William_Brown_Meloney_(1878%E2%80%931925)
+  translators:
+  - agent_name: Kellogg, Charlotte
+    alias: Kellogg, Charlotte Hoffman
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '38714'
+    url: http://www.gutenberg.org/2009/agents/38714
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Kellogg
+  - agent_name: Kellogg, Vernon L. (Vernon Lyman)
+    alias: Kellogg, Vernon Lyman
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '33942'
+    url: http://www.gutenberg.org/2009/agents/33942
+creator:
+  author:
+    agent_name: Curie, Marie
+    aliases:
+    - Curie, Marie Skłodowska
+    - Skłodowska, Marya
+    - Curie, Sklodowska
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '39174'
+    url: http://www.gutenberg.org/2009/agents/39174
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie_Curie
+    - http://en.wikipedia.org/wiki/Marie_Curie
+description: ''
+gutenberg_issued: '2022-12-23'
+identifiers:
+  gutenberg: '69617'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000483566
+pgterms:marc905: 20221216040616curie
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'United States: The Macmillan Company,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pierre Curie
+url: http://www.gutenberg.org/ebooks/69617
