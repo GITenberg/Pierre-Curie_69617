@@ -22,6 +22,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '33942'
     url: http://www.gutenberg.org/2009/agents/33942
+covers:
+- cover_type: archival
+  image_path: 69617-h/images/cover.jpg
 creator:
   author:
     agent_name: Curie, Marie
@@ -37,6 +40,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_Curie
     - http://en.wikipedia.org/wiki/Marie_Curie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69617#Pierre-Curie
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69617'
